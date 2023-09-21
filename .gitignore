@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore the working_backup directory
+working_backup/
+
+# Ignore the .vscode directory
+.vscode/
